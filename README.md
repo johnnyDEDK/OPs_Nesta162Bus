@@ -1,9 +1,14 @@
 %%%%%%%%%%%%%%%%%%%%% DISCLAIMER %%%%%%%%%%%%%%%%%%%%%\
 Under no circumstances shall the uploader be liable for any indirect, incidental, consequential, special or exemplary damage arising out of or in connection with your access or use of or inability to access or use the uploaded data, whether or not the damages were foreseeable and whether or not the user was advised of the possibility of such damages.\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+These repository contains the data corresponding to the publication:
+"Efficient Database Generation for Data-driven Security Assessment of Power Systems"
+by F Thams, A Venzke, R Eriksson, S Chatzivasileiadis
+arXiv preprint arXiv:1806.01074
+https://arxiv.org/pdf/1806.01074.pdf
 
 
-These data collections contains a collection of operating points of the NESTA 162 Bus system classified as N-1 secure and small-signal stable or not. \
+These data collections contains a collection of operating points of the NESTA 162 Bus system classified as N-1 secure and small-signal stable or not.
 
 The Nesta 162 Bus system is part of the "The Nicta Energy System Test Case Archive"
 
@@ -11,13 +16,6 @@ The Nesta 162 Bus system is part of the "The Nicta Energy System Test Case Archi
 C. Coffrin, D. Gordon, P. Scott in
 arXiv preprint arXiv:1411.0359
 (https://arxiv.org/pdf/1411.0359.pdf)
-
-All operating points collected here have been created during the development of the efficient database generation method presented in:\
-
-"Efficient Database Generation for Data-driven Security Assessment of Power Systems"
-by F Thams, A Venzke, R Eriksson, S Chatzivasileiadis
-arXiv preprint arXiv:1806.01074
-https://arxiv.org/pdf/1806.01074.pdf
 
 Details of the model used and details of the system requirements leading to the classification can be found in the aforementioned paper.
  
