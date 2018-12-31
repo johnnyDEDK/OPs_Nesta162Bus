@@ -1,9 +1,12 @@
 %%%%%%%%%%%%%%%%%%%%% DISCLAIMER %%%%%%%%%%%%%%%%%%%%%\
 Under no circumstances shall the uploader be liable for any indirect, incidental, consequential, special or exemplary damage arising out of or in connection with your access or use of or inability to access or use the uploaded data, whether or not the damages were foreseeable and whether or not the user was advised of the possibility of such damages.\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+
 These repository contains the data corresponding to the publication:
-"Efficient Database Generation for Data-driven Security Assessment of Power Systems"
-by F Thams, A Venzke, R Eriksson, S Chatzivasileiadis
+
+"Efficient Database Generation for Data-driven Security Assessment of Power Systems" by
+
+F Thams, A Venzke, R Eriksson, S Chatzivasileiadis
 arXiv preprint arXiv:1806.01074
 https://arxiv.org/pdf/1806.01074.pdf
 
