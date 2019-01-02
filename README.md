@@ -22,7 +22,9 @@ arXiv preprint arXiv:1411.0359
 
 Details of the model used and details of the system requirements leading to the classification can be found in the aforementioned paper.
  
-Each of the uploaded files contains a 'operation_points' matrix, in which every row represents a single operating point of the NESTA 162 Bus System. The first 12 columns correspond to the 12 generators, the following 284 columns represent the corresponding active power flows,  the following 284 columns represent the corresponding reactive power flows and the last column represents the classification whether the minimal damping ratio of the base case and all N considered contingency is above or equal to 3% (zeta_min >= 3%) (=1) or not (=0). 
+Each of the uploaded files ('ClassifiedOperatingPointsPQFlows_Nesta162BusSystem_x.mat') contains a 'operation_points' matrix, in which every row represents a single operating point of the NESTA 162 Bus System. The first 12 columns correspond to the 12 generator set points, the following 284 columns represent the corresponding active power flows,  the following 284 columns represent the corresponding reactive power flows and the last column represents the classification whether the minimal damping ratio of the base case and all N considered contingency is above or equal to 3% (zeta_min >= 3%) (=1) or not (=0).
+
+The DWTrainingSet.mat / ISTrainingSet.mat and TestSet.mat contain matrices of the same structure except the columns corresponding to the generator set points. 
 
 The considered contingencies are given as below with each number representing the number of the row of the lines in the mpc.branch matrix.\
 
